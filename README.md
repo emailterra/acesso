@@ -1,0 +1,2 @@
+# acesso
+meu site statics
